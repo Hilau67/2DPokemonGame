@@ -1,0 +1,5233 @@
+fileFormatVersion: 2
+guid: 61b08ef15666660469dc6522efbb5767
+timeCreated: 1524905985
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS DSi - Pokemon Diamond Pearl - Lucas_0
+    21300002: DS DSi - Pokemon Diamond Pearl - Lucas_1
+    21300004: DS DSi - Pokemon Diamond Pearl - Lucas_2
+    21300006: DS DSi - Pokemon Diamond Pearl - Lucas_3
+    21300008: DS DSi - Pokemon Diamond Pearl - Lucas_4
+    21300010: DS DSi - Pokemon Diamond Pearl - Lucas_5
+    21300012: DS DSi - Pokemon Diamond Pearl - Lucas_6
+    21300014: DS DSi - Pokemon Diamond Pearl - Lucas_7
+    21300016: DS DSi - Pokemon Diamond Pearl - Lucas_8
+    21300018: DS DSi - Pokemon Diamond Pearl - Lucas_9
+    21300020: DS DSi - Pokemon Diamond Pearl - Lucas_10
+    21300022: DS DSi - Pokemon Diamond Pearl - Lucas_11
+    21300024: DS DSi - Pokemon Diamond Pearl - Lucas_12
+    21300026: DS DSi - Pokemon Diamond Pearl - Lucas_13
+    21300028: DS DSi - Pokemon Diamond Pearl - Lucas_14
+    21300030: DS DSi - Pokemon Diamond Pearl - Lucas_15
+    21300032: DS DSi - Pokemon Diamond Pearl - Lucas_16
+    21300034: DS DSi - Pokemon Diamond Pearl - Lucas_17
+    21300036: DS DSi - Pokemon Diamond Pearl - Lucas_18
+    21300038: DS DSi - Pokemon Diamond Pearl - Lucas_19
+    21300040: DS DSi - Pokemon Diamond Pearl - Lucas_20
+    21300042: South
+    21300044: SouthWalkingLeft
+    21300046: DS DSi - Pokemon Diamond Pearl - Lucas_23
+    21300048: SouthWalkingRight
+    21300050: East
+    21300052: EastWalkingRight
+    21300054: EastWalkingLeft
+    21300056: North
+    21300058: NorthWalkingRight
+    21300060: NorthWalkingLeft
+    21300062: West
+    21300064: WestWalkingRight
+    21300066: DS DSi - Pokemon Diamond Pearl - Lucas_33
+    21300068: WestWalkingLeft
+    21300070: DS DSi - Pokemon Diamond Pearl - Lucas_35
+    21300072: DS DSi - Pokemon Diamond Pearl - Lucas_36
+    21300074: DS DSi - Pokemon Diamond Pearl - Lucas_37
+    21300076: DS DSi - Pokemon Diamond Pearl - Lucas_38
+    21300078: DS DSi - Pokemon Diamond Pearl - Lucas_39
+    21300080: DS DSi - Pokemon Diamond Pearl - Lucas_40
+    21300082: DS DSi - Pokemon Diamond Pearl - Lucas_41
+    21300084: DS DSi - Pokemon Diamond Pearl - Lucas_42
+    21300086: DS DSi - Pokemon Diamond Pearl - Lucas_43
+    21300088: DS DSi - Pokemon Diamond Pearl - Lucas_44
+    21300090: DS DSi - Pokemon Diamond Pearl - Lucas_45
+    21300092: DS DSi - Pokemon Diamond Pearl - Lucas_46
+    21300094: DS DSi - Pokemon Diamond Pearl - Lucas_47
+    21300096: DS DSi - Pokemon Diamond Pearl - Lucas_48
+    21300098: DS DSi - Pokemon Diamond Pearl - Lucas_49
+    21300100: DS DSi - Pokemon Diamond Pearl - Lucas_50
+    21300102: DS DSi - Pokemon Diamond Pearl - Lucas_51
+    21300104: DS DSi - Pokemon Diamond Pearl - Lucas_52
+    21300106: DS DSi - Pokemon Diamond Pearl - Lucas_53
+    21300108: DS DSi - Pokemon Diamond Pearl - Lucas_54
+    21300110: DS DSi - Pokemon Diamond Pearl - Lucas_55
+    21300112: DS DSi - Pokemon Diamond Pearl - Lucas_56
+    21300114: DS DSi - Pokemon Diamond Pearl - Lucas_57
+    21300116: DS DSi - Pokemon Diamond Pearl - Lucas_58
+    21300118: DS DSi - Pokemon Diamond Pearl - Lucas_59
+    21300120: DS DSi - Pokemon Diamond Pearl - Lucas_60
+    21300122: DS DSi - Pokemon Diamond Pearl - Lucas_61
+    21300124: DS DSi - Pokemon Diamond Pearl - Lucas_62
+    21300126: DS DSi - Pokemon Diamond Pearl - Lucas_63
+    21300128: DS DSi - Pokemon Diamond Pearl - Lucas_64
+    21300130: DS DSi - Pokemon Diamond Pearl - Lucas_65
+    21300132: DS DSi - Pokemon Diamond Pearl - Lucas_66
+    21300134: DS DSi - Pokemon Diamond Pearl - Lucas_67
+    21300136: DS DSi - Pokemon Diamond Pearl - Lucas_68
+    21300138: DS DSi - Pokemon Diamond Pearl - Lucas_69
+    21300140: DS DSi - Pokemon Diamond Pearl - Lucas_70
+    21300142: DS DSi - Pokemon Diamond Pearl - Lucas_71
+    21300144: DS DSi - Pokemon Diamond Pearl - Lucas_72
+    21300146: DS DSi - Pokemon Diamond Pearl - Lucas_73
+    21300148: DS DSi - Pokemon Diamond Pearl - Lucas_74
+    21300150: DS DSi - Pokemon Diamond Pearl - Lucas_75
+    21300152: DS DSi - Pokemon Diamond Pearl - Lucas_76
+    21300154: DS DSi - Pokemon Diamond Pearl - Lucas_77
+    21300156: DS DSi - Pokemon Diamond Pearl - Lucas_78
+    21300158: DS DSi - Pokemon Diamond Pearl - Lucas_79
+    21300160: DS DSi - Pokemon Diamond Pearl - Lucas_80
+    21300162: DS DSi - Pokemon Diamond Pearl - Lucas_81
+    21300164: DS DSi - Pokemon Diamond Pearl - Lucas_82
+    21300166: DS DSi - Pokemon Diamond Pearl - Lucas_83
+    21300168: DS DSi - Pokemon Diamond Pearl - Lucas_84
+    21300170: DS DSi - Pokemon Diamond Pearl - Lucas_85
+    21300172: DS DSi - Pokemon Diamond Pearl - Lucas_86
+    21300174: DS DSi - Pokemon Diamond Pearl - Lucas_87
+    21300176: DS DSi - Pokemon Diamond Pearl - Lucas_88
+    21300178: DS DSi - Pokemon Diamond Pearl - Lucas_89
+    21300180: DS DSi - Pokemon Diamond Pearl - Lucas_90
+    21300182: DS DSi - Pokemon Diamond Pearl - Lucas_91
+    21300184: DS DSi - Pokemon Diamond Pearl - Lucas_92
+    21300186: DS DSi - Pokemon Diamond Pearl - Lucas_93
+    21300188: DS DSi - Pokemon Diamond Pearl - Lucas_94
+    21300190: DS DSi - Pokemon Diamond Pearl - Lucas_95
+    21300192: DS DSi - Pokemon Diamond Pearl - Lucas_96
+    21300194: DS DSi - Pokemon Diamond Pearl - Lucas_97
+    21300196: DS DSi - Pokemon Diamond Pearl - Lucas_98
+    21300198: DS DSi - Pokemon Diamond Pearl - Lucas_99
+    21300200: DS DSi - Pokemon Diamond Pearl - Lucas_100
+    21300202: DS DSi - Pokemon Diamond Pearl - Lucas_101
+    21300204: DS DSi - Pokemon Diamond Pearl - Lucas_102
+    21300206: DS DSi - Pokemon Diamond Pearl - Lucas_103
+    21300208: DS DSi - Pokemon Diamond Pearl - Lucas_104
+    21300210: DS DSi - Pokemon Diamond Pearl - Lucas_105
+    21300212: DS DSi - Pokemon Diamond Pearl - Lucas_106
+    21300214: DS DSi - Pokemon Diamond Pearl - Lucas_107
+    21300216: DS DSi - Pokemon Diamond Pearl - Lucas_108
+    21300218: DS DSi - Pokemon Diamond Pearl - Lucas_109
+    21300220: DS DSi - Pokemon Diamond Pearl - Lucas_110
+    21300222: DS DSi - Pokemon Diamond Pearl - Lucas_111
+    21300224: DS DSi - Pokemon Diamond Pearl - Lucas_112
+    21300226: DS DSi - Pokemon Diamond Pearl - Lucas_113
+    21300228: DS DSi - Pokemon Diamond Pearl - Lucas_114
+    21300230: DS DSi - Pokemon Diamond Pearl - Lucas_115
+    21300232: DS DSi - Pokemon Diamond Pearl - Lucas_116
+    21300234: DS DSi - Pokemon Diamond Pearl - Lucas_117
+    21300236: DS DSi - Pokemon Diamond Pearl - Lucas_118
+    21300238: DS DSi - Pokemon Diamond Pearl - Lucas_119
+    21300240: DS DSi - Pokemon Diamond Pearl - Lucas_120
+    21300242: DS DSi - Pokemon Diamond Pearl - Lucas_121
+    21300244: DS DSi - Pokemon Diamond Pearl - Lucas_122
+    21300246: DS DSi - Pokemon Diamond Pearl - Lucas_123
+    21300248: DS DSi - Pokemon Diamond Pearl - Lucas_124
+    21300250: DS DSi - Pokemon Diamond Pearl - Lucas_125
+    21300252: DS DSi - Pokemon Diamond Pearl - Lucas_126
+    21300254: DS DSi - Pokemon Diamond Pearl - Lucas_127
+    21300256: DS DSi - Pokemon Diamond Pearl - Lucas_128
+    21300258: DS DSi - Pokemon Diamond Pearl - Lucas_129
+    21300260: DS DSi - Pokemon Diamond Pearl - Lucas_130
+    21300262: DS DSi - Pokemon Diamond Pearl - Lucas_131
+    21300264: DS DSi - Pokemon Diamond Pearl - Lucas_132
+    21300266: DS DSi - Pokemon Diamond Pearl - Lucas_133
+    21300268: DS DSi - Pokemon Diamond Pearl - Lucas_134
+    21300270: DS DSi - Pokemon Diamond Pearl - Lucas_135
+    21300272: DS DSi - Pokemon Diamond Pearl - Lucas_136
+    21300274: DS DSi - Pokemon Diamond Pearl - Lucas_137
+    21300276: DS DSi - Pokemon Diamond Pearl - Lucas_138
+    21300278: DS DSi - Pokemon Diamond Pearl - Lucas_139
+    21300280: DS DSi - Pokemon Diamond Pearl - Lucas_140
+    21300282: DS DSi - Pokemon Diamond Pearl - Lucas_141
+    21300284: DS DSi - Pokemon Diamond Pearl - Lucas_142
+    21300286: DS DSi - Pokemon Diamond Pearl - Lucas_143
+    21300288: DS DSi - Pokemon Diamond Pearl - Lucas_144
+    21300290: DS DSi - Pokemon Diamond Pearl - Lucas_145
+    21300292: DS DSi - Pokemon Diamond Pearl - Lucas_146
+    21300294: DS DSi - Pokemon Diamond Pearl - Lucas_147
+    21300296: DS DSi - Pokemon Diamond Pearl - Lucas_148
+    21300298: DS DSi - Pokemon Diamond Pearl - Lucas_149
+    21300300: DS DSi - Pokemon Diamond Pearl - Lucas_150
+    21300302: DS DSi - Pokemon Diamond Pearl - Lucas_151
+    21300304: DS DSi - Pokemon Diamond Pearl - Lucas_152
+    21300306: DS DSi - Pokemon Diamond Pearl - Lucas_153
+    21300308: DS DSi - Pokemon Diamond Pearl - Lucas_154
+    21300310: DS DSi - Pokemon Diamond Pearl - Lucas_155
+    21300312: DS DSi - Pokemon Diamond Pearl - Lucas_156
+    21300314: DS DSi - Pokemon Diamond Pearl - Lucas_157
+    21300316: DS DSi - Pokemon Diamond Pearl - Lucas_158
+    21300318: DS DSi - Pokemon Diamond Pearl - Lucas_159
+    21300320: DS DSi - Pokemon Diamond Pearl - Lucas_160
+    21300322: DS DSi - Pokemon Diamond Pearl - Lucas_161
+    21300324: DS DSi - Pokemon Diamond Pearl - Lucas_162
+    21300326: DS DSi - Pokemon Diamond Pearl - Lucas_163
+    21300328: DS DSi - Pokemon Diamond Pearl - Lucas_164
+    21300330: DS DSi - Pokemon Diamond Pearl - Lucas_165
+    21300332: DS DSi - Pokemon Diamond Pearl - Lucas_166
+    21300334: DS DSi - Pokemon Diamond Pearl - Lucas_167
+    21300336: DS DSi - Pokemon Diamond Pearl - Lucas_168
+    21300338: DS DSi - Pokemon Diamond Pearl - Lucas_169
+    21300340: DS DSi - Pokemon Diamond Pearl - Lucas_170
+    21300342: DS DSi - Pokemon Diamond Pearl - Lucas_171
+    21300344: DS DSi - Pokemon Diamond Pearl - Lucas_172
+    21300346: DS DSi - Pokemon Diamond Pearl - Lucas_173
+    21300348: DS DSi - Pokemon Diamond Pearl - Lucas_174
+    21300350: DS DSi - Pokemon Diamond Pearl - Lucas_175
+    21300352: DS DSi - Pokemon Diamond Pearl - Lucas_176
+    21300354: DS DSi - Pokemon Diamond Pearl - Lucas_177
+    21300356: DS DSi - Pokemon Diamond Pearl - Lucas_178
+    21300358: DS DSi - Pokemon Diamond Pearl - Lucas_179
+    21300360: DS DSi - Pokemon Diamond Pearl - Lucas_180
+    21300362: DS DSi - Pokemon Diamond Pearl - Lucas_181
+    21300364: DS DSi - Pokemon Diamond Pearl - Lucas_182
+    21300366: DS DSi - Pokemon Diamond Pearl - Lucas_183
+    21300368: DS DSi - Pokemon Diamond Pearl - Lucas_184
+    21300370: DS DSi - Pokemon Diamond Pearl - Lucas_185
+    21300372: DS DSi - Pokemon Diamond Pearl - Lucas_186
+    21300374: DS DSi - Pokemon Diamond Pearl - Lucas_187
+    21300376: DS DSi - Pokemon Diamond Pearl - Lucas_188
+    21300378: DS DSi - Pokemon Diamond Pearl - Lucas_189
+    21300380: DS DSi - Pokemon Diamond Pearl - Lucas_190
+    21300382: DS DSi - Pokemon Diamond Pearl - Lucas_191
+    21300384: DS DSi - Pokemon Diamond Pearl - Lucas_192
+    21300386: DS DSi - Pokemon Diamond Pearl - Lucas_193
+    21300388: DS DSi - Pokemon Diamond Pearl - Lucas_194
+    21300390: DS DSi - Pokemon Diamond Pearl - Lucas_195
+    21300392: DS DSi - Pokemon Diamond Pearl - Lucas_196
+    21300394: DS DSi - Pokemon Diamond Pearl - Lucas_197
+    21300396: DS DSi - Pokemon Diamond Pearl - Lucas_198
+    21300398: DS DSi - Pokemon Diamond Pearl - Lucas_199
+    21300400: DS DSi - Pokemon Diamond Pearl - Lucas_200
+    21300402: DS DSi - Pokemon Diamond Pearl - Lucas_201
+    21300404: DS DSi - Pokemon Diamond Pearl - Lucas_202
+    21300406: DS DSi - Pokemon Diamond Pearl - Lucas_203
+    21300408: DS DSi - Pokemon Diamond Pearl - Lucas_204
+    21300410: DS DSi - Pokemon Diamond Pearl - Lucas_205
+    21300412: DS DSi - Pokemon Diamond Pearl - Lucas_206
+    21300414: DS DSi - Pokemon Diamond Pearl - Lucas_207
+    21300416: DS DSi - Pokemon Diamond Pearl - Lucas_208
+    21300418: DS DSi - Pokemon Diamond Pearl - Lucas_209
+    21300420: DS DSi - Pokemon Diamond Pearl - Lucas_210
+    21300422: DS DSi - Pokemon Diamond Pearl - Lucas_211
+    21300424: DS DSi - Pokemon Diamond Pearl - Lucas_212
+    21300426: DS DSi - Pokemon Diamond Pearl - Lucas_213
+    21300428: DS DSi - Pokemon Diamond Pearl - Lucas_214
+    21300430: DS DSi - Pokemon Diamond Pearl - Lucas_215
+    21300432: DS DSi - Pokemon Diamond Pearl - Lucas_216
+    21300434: DS DSi - Pokemon Diamond Pearl - Lucas_217
+    21300436: DS DSi - Pokemon Diamond Pearl - Lucas_218
+    21300438: DS DSi - Pokemon Diamond Pearl - Lucas_219
+    21300440: DS DSi - Pokemon Diamond Pearl - Lucas_220
+    21300442: DS DSi - Pokemon Diamond Pearl - Lucas_221
+    21300444: DS DSi - Pokemon Diamond Pearl - Lucas_222
+    21300446: DS DSi - Pokemon Diamond Pearl - Lucas_223
+    21300448: DS DSi - Pokemon Diamond Pearl - Lucas_224
+    21300450: DS DSi - Pokemon Diamond Pearl - Lucas_225
+    21300452: DS DSi - Pokemon Diamond Pearl - Lucas_226
+    21300454: DS DSi - Pokemon Diamond Pearl - Lucas_227
+    21300456: DS DSi - Pokemon Diamond Pearl - Lucas_228
+    21300458: DS DSi - Pokemon Diamond Pearl - Lucas_229
+    21300460: DS DSi - Pokemon Diamond Pearl - Lucas_230
+    21300462: DS DSi - Pokemon Diamond Pearl - Lucas_231
+    21300464: DS DSi - Pokemon Diamond Pearl - Lucas_232
+    21300466: DS DSi - Pokemon Diamond Pearl - Lucas_233
+    21300468: DS DSi - Pokemon Diamond Pearl - Lucas_234
+    21300470: DS DSi - Pokemon Diamond Pearl - Lucas_235
+    21300472: DS DSi - Pokemon Diamond Pearl - Lucas_236
+    21300474: DS DSi - Pokemon Diamond Pearl - Lucas_237
+    21300476: DS DSi - Pokemon Diamond Pearl - Lucas_238
+    21300478: DS DSi - Pokemon Diamond Pearl - Lucas_239
+    21300480: DS DSi - Pokemon Diamond Pearl - Lucas_240
+    21300482: DS DSi - Pokemon Diamond Pearl - Lucas_241
+    21300484: DS DSi - Pokemon Diamond Pearl - Lucas_242
+    21300486: DS DSi - Pokemon Diamond Pearl - Lucas_243
+    21300488: DS DSi - Pokemon Diamond Pearl - Lucas_244
+    21300490: DS DSi - Pokemon Diamond Pearl - Lucas_245
+    21300492: DS DSi - Pokemon Diamond Pearl - Lucas_246
+    21300494: DS DSi - Pokemon Diamond Pearl - Lucas_247
+    21300496: DS DSi - Pokemon Diamond Pearl - Lucas_248
+    21300498: DS DSi - Pokemon Diamond Pearl - Lucas_249
+    21300500: DS DSi - Pokemon Diamond Pearl - Lucas_250
+    21300502: DS DSi - Pokemon Diamond Pearl - Lucas_251
+    21300504: DS DSi - Pokemon Diamond Pearl - Lucas_252
+    21300506: DS DSi - Pokemon Diamond Pearl - Lucas_253
+    21300508: DS DSi - Pokemon Diamond Pearl - Lucas_254
+    21300510: DS DSi - Pokemon Diamond Pearl - Lucas_255
+    21300512: DS DSi - Pokemon Diamond Pearl - Lucas_256
+    21300514: DS DSi - Pokemon Diamond Pearl - Lucas_257
+    21300516: DS DSi - Pokemon Diamond Pearl - Lucas_258
+    21300518: DS DSi - Pokemon Diamond Pearl - Lucas_259
+    21300520: DS DSi - Pokemon Diamond Pearl - Lucas_260
+    21300522: DS DSi - Pokemon Diamond Pearl - Lucas_261
+    21300524: DS DSi - Pokemon Diamond Pearl - Lucas_262
+    21300526: DS DSi - Pokemon Diamond Pearl - Lucas_263
+    21300528: DS DSi - Pokemon Diamond Pearl - Lucas_264
+    21300530: DS DSi - Pokemon Diamond Pearl - Lucas_265
+    21300532: DS DSi - Pokemon Diamond Pearl - Lucas_266
+    21300534: DS DSi - Pokemon Diamond Pearl - Lucas_267
+    21300536: DS DSi - Pokemon Diamond Pearl - Lucas_268
+    21300538: DS DSi - Pokemon Diamond Pearl - Lucas_269
+    21300540: DS DSi - Pokemon Diamond Pearl - Lucas_270
+    21300542: DS DSi - Pokemon Diamond Pearl - Lucas_271
+    21300544: DS DSi - Pokemon Diamond Pearl - Lucas_272
+    21300546: DS DSi - Pokemon Diamond Pearl - Lucas_273
+    21300548: DS DSi - Pokemon Diamond Pearl - Lucas_274
+    21300550: DS DSi - Pokemon Diamond Pearl - Lucas_275
+    21300552: DS DSi - Pokemon Diamond Pearl - Lucas_276
+    21300554: DS DSi - Pokemon Diamond Pearl - Lucas_277
+    21300556: DS DSi - Pokemon Diamond Pearl - Lucas_278
+    21300558: DS DSi - Pokemon Diamond Pearl - Lucas_279
+    21300560: DS DSi - Pokemon Diamond Pearl - Lucas_280
+    21300562: DS DSi - Pokemon Diamond Pearl - Lucas_281
+    21300564: DS DSi - Pokemon Diamond Pearl - Lucas_282
+    21300566: DS DSi - Pokemon Diamond Pearl - Lucas_283
+    21300568: DS DSi - Pokemon Diamond Pearl - Lucas_284
+    21300570: DS DSi - Pokemon Diamond Pearl - Lucas_285
+    21300572: DS DSi - Pokemon Diamond Pearl - Lucas_286
+    21300574: DS DSi - Pokemon Diamond Pearl - Lucas_287
+    21300576: DS DSi - Pokemon Diamond Pearl - Lucas_288
+    21300578: DS DSi - Pokemon Diamond Pearl - Lucas_289
+    21300580: DS DSi - Pokemon Diamond Pearl - Lucas_290
+    21300582: DS DSi - Pokemon Diamond Pearl - Lucas_291
+    21300584: DS DSi - Pokemon Diamond Pearl - Lucas_292
+    21300586: DS DSi - Pokemon Diamond Pearl - Lucas_293
+    21300588: DS DSi - Pokemon Diamond Pearl - Lucas_294
+    21300590: DS DSi - Pokemon Diamond Pearl - Lucas_295
+    21300592: DS DSi - Pokemon Diamond Pearl - Lucas_296
+    21300594: DS DSi - Pokemon Diamond Pearl - Lucas_297
+    21300596: DS DSi - Pokemon Diamond Pearl - Lucas_298
+    21300598: DS DSi - Pokemon Diamond Pearl - Lucas_299
+    21300600: DS DSi - Pokemon Diamond Pearl - Lucas_300
+    21300602: DS DSi - Pokemon Diamond Pearl - Lucas_301
+    21300604: DS DSi - Pokemon Diamond Pearl - Lucas_302
+    21300606: DS DSi - Pokemon Diamond Pearl - Lucas_303
+    21300608: DS DSi - Pokemon Diamond Pearl - Lucas_304
+    21300610: DS DSi - Pokemon Diamond Pearl - Lucas_305
+    21300612: DS DSi - Pokemon Diamond Pearl - Lucas_306
+    21300614: DS DSi - Pokemon Diamond Pearl - Lucas_307
+    21300616: DS DSi - Pokemon Diamond Pearl - Lucas_308
+    21300618: DS DSi - Pokemon Diamond Pearl - Lucas_309
+    21300620: DS DSi - Pokemon Diamond Pearl - Lucas_310
+    21300622: DS DSi - Pokemon Diamond Pearl - Lucas_311
+    21300624: DS DSi - Pokemon Diamond Pearl - Lucas_312
+    21300626: DS DSi - Pokemon Diamond Pearl - Lucas_313
+    21300628: DS DSi - Pokemon Diamond Pearl - Lucas_314
+    21300630: DS DSi - Pokemon Diamond Pearl - Lucas_315
+    21300632: DS DSi - Pokemon Diamond Pearl - Lucas_316
+    21300634: DS DSi - Pokemon Diamond Pearl - Lucas_317
+    21300636: DS DSi - Pokemon Diamond Pearl - Lucas_318
+    21300638: DS DSi - Pokemon Diamond Pearl - Lucas_319
+    21300640: DS DSi - Pokemon Diamond Pearl - Lucas_320
+    21300642: DS DSi - Pokemon Diamond Pearl - Lucas_321
+    21300644: DS DSi - Pokemon Diamond Pearl - Lucas_322
+    21300646: DS DSi - Pokemon Diamond Pearl - Lucas_323
+    21300648: DS DSi - Pokemon Diamond Pearl - Lucas_324
+    21300650: DS DSi - Pokemon Diamond Pearl - Lucas_325
+    21300652: DS DSi - Pokemon Diamond Pearl - Lucas_326
+    21300654: DS DSi - Pokemon Diamond Pearl - Lucas_327
+    21300656: DS DSi - Pokemon Diamond Pearl - Lucas_328
+    21300658: DS DSi - Pokemon Diamond Pearl - Lucas_329
+    21300660: DS DSi - Pokemon Diamond Pearl - Lucas_330
+    21300662: DS DSi - Pokemon Diamond Pearl - Lucas_331
+    21300664: DS DSi - Pokemon Diamond Pearl - Lucas_332
+    21300666: DS DSi - Pokemon Diamond Pearl - Lucas_333
+    21300668: DS DSi - Pokemon Diamond Pearl - Lucas_334
+    21300670: DS DSi - Pokemon Diamond Pearl - Lucas_335
+    21300672: DS DSi - Pokemon Diamond Pearl - Lucas_336
+    21300674: DS DSi - Pokemon Diamond Pearl - Lucas_337
+    21300676: DS DSi - Pokemon Diamond Pearl - Lucas_338
+    21300678: DS DSi - Pokemon Diamond Pearl - Lucas_339
+    21300680: DS DSi - Pokemon Diamond Pearl - Lucas_340
+    21300682: DS DSi - Pokemon Diamond Pearl - Lucas_341
+    21300684: DS DSi - Pokemon Diamond Pearl - Lucas_342
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 498
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: South
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SouthWalkingLeft
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SouthWalkingRight
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: East
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EastWalkingRight
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EastWalkingLeft
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: North
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NorthWalkingRight
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NorthWalkingLeft
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: West
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WestWalkingRight
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WestWalkingLeft
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 466
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_61
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_63
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_64
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_78
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_82
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_84
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_86
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_87
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_99
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_101
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_102
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_103
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_105
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_107
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_109
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_110
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_122
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_124
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_125
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_127
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_128
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_130
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_139
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_143
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_144
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_145
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_146
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_147
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_149
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_150
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_151
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_152
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_160
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_163
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_164
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_166
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_168
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_169
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_170
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_171
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_172
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_173
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_184
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_185
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_187
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_189
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_190
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_191
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_192
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_193
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_194
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_196
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_197
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_199
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_200
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_203
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_205
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_206
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_207
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_208
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_209
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_210
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_211
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_212
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_213
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_214
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_215
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_218
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_220
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_221
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_225
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_226
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_227
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_228
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_229
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_230
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_231
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_233
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_234
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_235
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_236
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_238
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_239
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_240
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_241
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_242
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_244
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_245
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_247
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_248
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_249
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_250
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_251
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_252
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_253
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_254
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_255
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_256
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_257
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_258
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_259
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_260
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_261
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_262
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_263
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_264
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_265
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_266
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_267
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_268
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_269
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_270
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_271
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_272
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_273
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_274
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_275
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_276
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_277
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_278
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_280
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_281
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_282
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_283
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_284
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_285
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_286
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_287
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_288
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_289
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_290
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_291
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_292
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_293
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_294
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_295
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_296
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_297
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_298
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_299
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_301
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_302
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_303
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_304
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_305
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_306
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_307
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_308
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_309
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_310
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_311
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_312
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_313
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_314
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_315
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_316
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_317
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_318
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_319
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_320
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_321
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_322
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_323
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_324
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_325
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_326
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_327
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_328
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_329
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_330
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_331
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_332
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_333
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_334
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_335
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_336
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_337
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_338
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_339
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_340
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_341
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Diamond Pearl - Lucas_342
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
